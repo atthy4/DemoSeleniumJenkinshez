@@ -1,0 +1,16 @@
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\FutasiIdoVizsgalat.exe.config
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\FutasiIdoVizsgalat.exe
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\FutasiIdoVizsgalat.pdb
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\WebDriver.dll
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\WebDriver.Support.dll
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\WebDriver.xml
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\bin\Debug\WebDriver.Support.xml
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\obj\Debug\FutasiIdoVizsgalat.csprojAssemblyReference.cache
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\obj\Debug\FutasiIdoVizsgalat.csproj.CoreCompileInputs.cache
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\obj\Debug\FutasiIdoVizsgalat.csproj.CopyComplete
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\obj\Debug\FutasiIdoVizsgalat.exe
+C:\Users\legenda\source\repos\FutasiIdoVizsgalat\FutasiIdoVizsgalat\obj\Debug\FutasiIdoVizsgalat.pdb
